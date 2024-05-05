@@ -1,0 +1,67 @@
+A onda je nestala-Lisa Jewell;k
+Fahrenheit 451-Ray Bradbury;l
+Adam Bede-George Eliot;r
+Balade Petrice Kerempuha-Miroslav Krleža;l
+Ubojstvo Rogera Ackroyda-Agatha Christie;k
+Božanstvena komedija-Dante Alighieri;l
+1984-George Orwell;l
+Tihi pacijent-Alex Michaelides;k
+Djevojka u vlaku-Paula Hawkins;k
+D kao dokaz-Sue Grafton;k
+Hamlet-William Shakespeare;l
+Maigret i žrtva iz Seine-Georges Simenon;k
+Kirka-Madeline Miller;f
+Christine-Stephen King;k,f
+Hobbit-J.R.R. Tolkien
+Prstenova družina-J.R.R. Tolkien;f
+Dvije kule-J.R.R. Tolkien;f
+Povratak kralja-J.R.R. Tolkien;f
+Judita-Marko Maruliæ;l
+Talentirani gospodin Ripley-Patricia Highsmith;k
+Romeo i Julija-William Shakespeare;l,r
+Gospodin Mercedes-Stephen King;k
+Lavovi Al Rassana-Guy Gavriel Kay;f
+Igra s vragom-Lisa Kleypas;r
+Osman-Ivan Gunduliæ;l
+Malteški sokol-Dashiell Hammett;k
+E.T.: došljak iz svemira-William Kotzwinkle;f
+Harry Potter i kamen mudraca-J.K. Rowling;f
+Harry Potter i odaja tajni-J.K. Rowling;f
+Harry Potter i zatoèenik Azkabana-J.K. Rowling;f
+Harry Potter i plameni pehar-J.K. Rowling;f
+Harry Potter i red feniksa-J.K. Rowling;f
+Harry Potter i princ mješane krvi-J.K. Rowling;f
+Harry Potter i darovi smrti-J.K. Rowling;f
+Ptice umiru pjevajuæi-Colleen McCullough;r
+Igra prijestolja-G.R.R. Martin;f
+San Ivanjske noæi-William Shakespeare;l
+Veliki san-Raymond Chandler;k
+Ana Karenjina-Lav Nikolajeviè Tolstoj;l
+Lutkina kuæa-Henrik Ibsen;l
+Junak našeg doba-Mihail Jurjeviè Ljermontov;l
+Kum-Mario Puzo;k
+Mrtve duše-Nikolaj Vasiljeviè Gogolj;l
+Preobražaj-Franz Kafka;l
+Sadie kad je umrla-Ed McBain;k
+Crna dalija-James Ellroy;k
+Prevarant-Javier Cercas;f
+Ponos i predrasude-Jane Austin;l,r
+Nestala-Gillian Flynn;k
+Noæno kupanje-Carl Hiaasen;k
+Nož-Jo Nesbo;f
+Kristofor Kolumbo-Miroslav Krleža;l
+Ono-Stephen King;k
+Hladna kuæa-Charles Dickens;k
+Bilježnica-Nicholas Sparks;r
+Zloèin i kazna-Fjodor Mihajloviè Dostojevski;l
+Planine-Petar Zoraniæ;l
+Suša-Jane Harper;k
+Srebrne svirale-Dragutin Tadijanoviæ;l
+Zaèuðeni svatovi-Eugen Kumièiæ;l
+Tajna Edwina Drooda-Charles Dickens;k
+Ljubavna prièa-Erich Segal;r
+Crni maèak-Edgar Allan Poe;l,k
+Ubojstvo u Orient Expressu-Agatha Christie;k
+Voljeni neprijatelj-Johanna Lindsey;r
+Pustolovina Sherlocka Holmesa-Arthur Connan Doyle;k
+Smrt na Nilu-Agatha Christie;k
